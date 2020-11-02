@@ -2,3 +2,5 @@ cpu
 keyboards
 monitor
 mouse
+Ashoka
+Chattu
